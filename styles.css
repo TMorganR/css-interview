@@ -1,0 +1,50 @@
+#Tyler {
+    border-color: 1px solid rgb(66, 165, 223);
+    border-style: solid;
+    background-color: rgb(64, 96, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px; 
+}
+
+div {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   box-shadow: black;
+   padding: 25px;
+}
+img {
+    border-radius: 50px;
+}
+li {
+    margin: 10px;
+    padding: 5px;
+    font-style: italic;
+}
+body {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsT--dn0tZC70xhRxF23Q_V6dRBCFmfQv90g&usqp=CAU);
+}
+
+#div1 {
+    background-color: rgb(125, 20, 245);
+    border-color: blue;
+    border-style: solid;
+    box-shadow: 5px 10px;
+}
+
+p {
+    color: blue;
+}
+
+#clayton {
+    border-color: 1px solid rgb(66, 165, 223);
+    border-style: solid;
+    background-color: rgb(64, 96, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px; 
+}
+
+#div2 {
+    background-color: rgb(125, 20 , 245);
+    border-color: blue;
+    border-style: solid;
+    box-shadow: 5px 10px;
+}
